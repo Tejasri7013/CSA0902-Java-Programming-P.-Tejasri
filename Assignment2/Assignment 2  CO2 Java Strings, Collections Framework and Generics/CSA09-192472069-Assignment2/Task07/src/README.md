@@ -1,4 +1,4 @@
-# CSA09 – Java Programming Assignment 2
+# CSA0902 – Java Programming Assignment 2
 
 
 
@@ -20,7 +20,7 @@ This repository contains Java programs demonstrating the practical application o
 ## Folder Structure
 
 ```text
-CSA09-192424002-Assignment2/
+CSA09-192472069-Assignment2/
 │
 ├── Task01/
 │   ├── src/
@@ -73,5 +73,5 @@ Task 07 compares repeated String concatenation with StringBuilder using average 
 - Java Collections Framework
 
 ## Author
-**Thamarai V**  
-Register Number: **192424002**
+**P. Tejasri**  
+Register Number: **192472069**
