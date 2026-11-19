@@ -1,8 +1,8 @@
 # STUDENT DETAILS
 
-**Name:** YAZHINI.E.M
+**Name:** P. Tejasri
 
-**Register Number:** 192511165
+**Register Number:** 192472069
 
 **Course Name:** Java Programming
 
